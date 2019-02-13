@@ -3,3 +3,6 @@ Git demo qui vient dêtre modifier encore une fois et envoyer au repository
 
 
 Modification depuis Github
+
+
+Mais aussi depuis la machine
